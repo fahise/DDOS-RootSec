@@ -1,1 +1,0 @@
-cat vuln.txt | grep -v DUP >vuln
